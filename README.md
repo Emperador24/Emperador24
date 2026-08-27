@@ -7,6 +7,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emperador24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-emperador-contreras-45ab52328)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuel.emperador)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SamuelEmperado1)
 
@@ -25,7 +26,7 @@
 - 🎓 Estudiante de **Ingeniería de Sistemas** en la **Pontificia Universidad Javeriana**
 - 📍 Bogotá, Colombia
 - 💡 Interesado en desarrollo de **software, sistemas, web y aplicaciones móviles**
-- 🧩 Actualmente trabajando en proyectos de **arquitectura de software** y **sistemas hexagonales** (`HEXACORE`)
+- 🧩 Actualmente trabajando en proyectos de **arquitectura de software** y **sistemas hexagonales** (`ArquiSoftware`, `HEXACORE`)
 - 🧠 Enfocado en construir bases sólidas, código legible y proyectos bien estructurados
 
 ---
@@ -123,16 +124,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emperador24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emperador24&layout=compact&langs_count=8&theme=tokyonight" />
-</div>
-
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emperador24&theme=tokyonight" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Emperador24&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
@@ -154,14 +146,6 @@
 <blockquote>
 <p><em>"Un buen ingeniero no solo escribe código que funciona, sino código que se entiende, se mantiene y evoluciona."</em></p>
 </blockquote>
-</div>
-
----
-
-## 📈 Actividad en GitHub
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Emperador24&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
