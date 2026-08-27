@@ -25,7 +25,7 @@
 - 🎓 Estudiante de **Ingeniería de Sistemas** en la **Pontificia Universidad Javeriana**
 - 📍 Bogotá, Colombia
 - 💡 Interesado en desarrollo de **software, sistemas, web y aplicaciones móviles**
-- 🧩 Actualmente trabajando en proyectos de **arquitectura de software** y **sistemas hexagonales** (`ArquiSoftware`, `HEXACORE`)
+- 🧩 Actualmente trabajando en proyectos de **arquitectura de software** y **sistemas hexagonales** (`HEXACORE`)
 - 🧠 Enfocado en construir bases sólidas, código legible y proyectos bien estructurados
 
 ---
